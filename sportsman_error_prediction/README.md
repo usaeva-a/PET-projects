@@ -6,7 +6,7 @@
 В ходе данного проекта необходимо 
 
 ## Использованные инструменты и библиотеки
-Python, re, pandas, sklearn, matplotlib, phik, Pipeline, LinearRegression, CatBoostRegressor, LightGBM.
+Python, re, pandas, sklearn, matplotlib, phik, Pipeline, RandomForest, CatBoostRegressor.
 
 ## Вывод
 На этапе <u>обучения модели</u> было построено 3 модели: LogisticRegression, CatBoostClassifier, RandomForestClassifier.
