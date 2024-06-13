@@ -10,7 +10,7 @@ Python, re, pandas, sklearn, matplotlib, phik, Pipeline, RandomForest, CatBoost.
 
 ## Вывод
 На этапе <u>обучения модели</u> было построено 3 модели: LogisticRegression, CatBoostClassifier, RandomForestClassifier.
-По результатам кросс-валидации лучшей оказалась модель CatBoostClassifier с параметрами {'depth': 8, 'learning_rate': 0.1}. Ее метрика ROC-AUC на кросс-валидации равна 98.9%. Метрика ROC-AUC на тестовых данных равна 99.3%.
+По результатам кросс-валидации лучшей оказалась модель CatBoostClassifier с параметрами {'depth': 8, 'learning_rate': 0.1}. Ее метрика ROC-AUC на кросс-валидации равна 97%. Метрика ROC-AUC на тестовых данных равна 84.6%.
 
 ## Пояснения
 В работе использовался файл `SSPScomm_2475.xlsx` с утвержденными базовыми оценками за элементы, который также сохранен в этой папке.
