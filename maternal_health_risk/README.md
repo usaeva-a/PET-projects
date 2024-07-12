@@ -1,6 +1,6 @@
 # Прогнозирование рисков беременных
 Статус: Проект завершен. Разработано приложение на Streamlit.
-![](maternal_health_risk/pics/app_demo.gif)
+![](https://github.com/usaeva-a/PET-projects/blob/076f6e1b7561019b2fe7c5363f29eaf65d8c2fb5/maternal_health_risk/pics/app_demo.gif)
 
 ## Описание проекта
 
