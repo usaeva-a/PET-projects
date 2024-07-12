@@ -7,7 +7,7 @@
 В ходе данного проекта необходимо решить задачу мультиклассовой классификации и создать модель, которая наилучшим образом разделит пациентов по уровню риска на низкий, средний и высокий уровень.
 
 ## Использованные инструменты и библиотеки
-Python, pandas, sklearn, matplotlib, phik, Pipeline, LogisticRegression, KNeighborsClassifier, RandomForestClassifier, XGBClassifier.
+Python, pandas, sklearn, matplotlib, phik, Pipeline, LogisticRegression, KNeighborsClassifier, RandomForestClassifier, XGBClassifier, Streamlit.
 
 ## Вывод
 В ходе данного проекта была построена модель МО для выявления беременных с рисками для здоровья.
