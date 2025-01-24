@@ -1,0 +1,11 @@
+matplotlib==3.7.5
+numpy==1.26.4
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+pandas==2.2.3
+Pillow==11.1.0
+scikit_learn==1.2.2
+seaborn==0.13.2
+tqdm==4.67.1
+ultralytics==8.3.66
